@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeioUpload behavior\n"
+"POT-Creation-Date: 2009-05-28 14:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matthieu Sadouni <matthieusadouni@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+
+#: /models/behaviors/meio_upload.php:209
+msgid "MeioUploadBehavior Error: The field %s doesn't exists in the model %s"
+msgstr "Erreur MeioUploadBehavior : le champ %s n'existe pas dans le modèle %s"
+
+#: /models/behaviors/meio_upload.php:219
+msgid "MeioUploadBehavior Error: The default option must be the filename with extension."
+msgstr "Erreur MeioUploadBehavior : l'option par défaut doit être le nom du champ avec l'extension."
+
+#: /models/behaviors/meio_upload.php:228
+msgid "MeioUploadBehavior Error: The thumbsizes names must be alphanumeric."
+msgstr "Erreur MeioUploadBehavior : les noms des miniatures doivent être alphanumériques."
+
+#: /models/behaviors/meio_upload.php:304
+msgid "MeioUploadBehavior Error: The max_size option format is invalid."
+msgstr "Erreur MeioUploadBehavior : le format de l'option max_size est invalide."
+
+#: /models/behaviors/meio_upload.php:314
+msgid "MeioUploadBehavior Error: The max_size unit is invalid."
+msgstr "Erreur MeioUploadBehavior : l'unité de max_size est invalide."
+
+#: /models/behaviors/meio_upload.php:357
+msgid "UploadBehavior Error: The field %s wasn't declared as part of the UploadBehavior in model %s"
+msgstr "Erreur UploadBehavior : le champ %s n'a pas été déclaré comme faisant partie de UploadBehavior dans le modèle %s"
+
+#: /models/behaviors/meio_upload.php:382
+msgid "UploadBehavior Error: The directory %s does not exist and cannot be created."
+msgstr "Erreur UploadBehavior : le répertoire %s n'existe pas et ne peut pas être créé."
+
+#: /models/behaviors/meio_upload.php:388
+msgid "UploadBehavior Error: The directory %s does not exist."
+msgstr "Erreur UploadBehavior : le répertoire %s n'existe pas."
+
+#: /models/behaviors/meio_upload.php:397
+msgid "UploadBehavior Error: The directory %s isn't writable."
+msgstr "Erreur UploadBehavior : le répertoire %s n'est pas accessible en écriture."
+
+msgid "The upload field isn't defined in the parameters"
+msgstr "Le champ d'upload n'est pas défini dans les paramètres"
+
+msgid "The upload directory doesn't exist or isn't writable"
+msgstr "Le répertoire d'upload n'existe pas ou n'est pas accessible en écriture"
+
+msgid "You must specify a file to upload"
+msgstr "Vous devez spécifier un fichier à uploader"
+
+msgid "There was an error while uploading the file"
+msgstr "Une erreur s'est produite lors de l'upload du fichier"
+
+msgid "The file is too big"
+msgstr "Le fichier est trop gros"
+
+msgid "The file mimetype is invalid"
+msgstr "Le type mime du fichier est invalide"
+
+msgid "The file extension is invalid"
+msgstr "L'extension du fichier est invalide"
+

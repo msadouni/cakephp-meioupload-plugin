@@ -1,0 +1,73 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# No version information was available in the source files.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2009-05-28 14:54+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /models/behaviors/meio_upload.php:209
+msgid "MeioUploadBehavior Error: The field %s doesn't exists in the model %s"
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:219
+msgid "MeioUploadBehavior Error: The default option must be the filename with extension."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:228
+msgid "MeioUploadBehavior Error: The thumbsizes names must be alphanumeric."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:304
+msgid "MeioUploadBehavior Error: The max_size option format is invalid."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:314
+msgid "MeioUploadBehavior Error: The max_size unit is invalid."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:357
+msgid "UploadBehavior Error: The field %s wasn't declared as part of the UploadBehavior in model %s"
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:382
+msgid "UploadBehavior Error: The directory %s does not exist and cannot be created."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:388
+msgid "UploadBehavior Error: The directory %s does not exist."
+msgstr ""
+
+#: /models/behaviors/meio_upload.php:397
+msgid "UploadBehavior Error: The directory %s isn't writable."
+msgstr ""
+
+msgid "The upload field isn't defined in the parameters"
+msgstr ""
+
+msgid "The upload directory doesn't exist or isn't writable"
+msgstr ""
+
+msgid "You must specify a file to upload"
+msgstr ""
+
+msgid "There was an error while uploading the file"
+msgstr ""
+
+msgid "The file is too big"
+msgstr ""
+
+msgid "The file mimetype is invalid"
+msgstr ""
+
+msgid "The file extension is invalid"
+msgstr ""
