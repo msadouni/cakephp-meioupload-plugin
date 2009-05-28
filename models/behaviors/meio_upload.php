@@ -1,5 +1,13 @@
 <?php
 /**
+ * MeioUpload Behavior packaged as a plugin, with translation capabilities and phpThumb
+ * See original comments, docs etc below
+ * See README.markdown for usage of this plugin version
+ *
+ * @author Matthieu Sadouni <matthieusadouni@gmail.com>
+ */
+
+/**
  * MeioUpload Behavior
  * This behavior is based on Tane Piper's improved uplaod behavior (http://digitalspaghetti.tooum.net/switchboard/blog/2497:Upload_Behavior_for_CakePHP_12)
  * @author Vinicius Mendes (vbmendes@gmail.com)
