@@ -1,5 +1,7 @@
 # MeioUpload packaged as a plugin
 
+**WARNING : this plugin is based on an old version of MeioUpload, you should probably use [jrbasso's plugin](http://github.com/jrbasso/MeioUpload) which is up-to-date.**
+
 This plugin provides an easy way to include [MeioUpload Behavior](http://www.meiocodigo.com/meioupload) from Vinicius Mendes in your application, as well as the possibility to translate the error message (orignially only in portuguese) and the use of phpThumb as a better thumbnail generator.
 
 It adds :
