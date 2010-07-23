@@ -554,7 +554,7 @@ class MeioUploadBehavior extends ModelBehavior {
         // updates the filename removing the keywords thumb and default name for the field.
         list($filename, $ext) = $this->splitFilenameAndExt($this->__model->data[$this->__model->name][$fieldName]['name']);
         $filename = str_replace($this->patterns,$this->replacements,$filename);
-        $filename = Inflector::slug($filename);
+        $filename = strtolower(Inflector::slug($filename));
         $i = 0;
         $newFilename = $filename;
         while(file_exists($this->__fields[$fieldName]['dir'].DS.$newFilename.'.'.$ext)){
